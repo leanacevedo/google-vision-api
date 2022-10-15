@@ -1,0 +1,390 @@
+[
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: 'es',
+      description: 'EL PROYECTOR DE CLASE\n' +
+        'CALLE DE LA GOLOSINA NO4\n' +
+        'ALICANTE. ESPAÑA\n' +
+        'LÁPIZ\n' +
+        'BOLIGRAFO ROJO\n' +
+        'CUADERNO\n' +
+        'SACAPUNTAS\n' +
+        '8.56\n' +
+        '1.00\n' +
+        '2.00\n' +
+        '0.50\n' +
+        'TOTAL: $4.06\n' +
+        '¡GRACIAS POR SU COMPRA!\n' +
+        'ELPROYECTORDECLASE.COM\n' +
+        'www.CUSTOMRECEIPT.COM',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'EL',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'PROYECTOR',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'DE',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'CLASE',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'CALLE',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'DE',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'LA',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'GOLOSINA',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'NO4',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'ALICANTE',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '.',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'ESPAÑA',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'LÁPIZ',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'BOLIGRAFO',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'ROJO',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'CUADERNO',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'SACAPUNTAS',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '8.56',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '1.00',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '2.00',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '0.50',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'TOTAL',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: ':',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '$',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '4.06',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '¡',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'GRACIAS',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'POR',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'SU',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'COMPRA',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: '!',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'ELPROYECTORDECLASE.COM',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    },
+    {
+      locations: [],
+      properties: [],
+      mid: '',
+      locale: '',
+      description: 'www.CUSTOMRECEIPT.COM',
+      score: 0,
+      confidence: 0,
+      topicality: 0,
+      boundingPoly: { vertices: [Array], normalizedVertices: [] }
+    }
+]

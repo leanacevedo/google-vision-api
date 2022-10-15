@@ -1,0 +1,33 @@
+{
+  "name": "google-vision-api",
+  "version": "1.0.0",
+  "description": "Google Vision API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www",
+    "start-dev": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-leanacevedo:leanacevedo/google-vision-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vision": "^3.0.1",
+    "@sendgrid/mail": "^7.7.0",
+    "cookie-parser": "^1.4.6",
+    "cookie-session": "^2.0.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "google-auth-library": "^8.5.2",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "passport": "^0.5.3",
+    "passport-google-oauth": "^2.0.0",
+    "passport-google-oauth2": "^0.2.0"
+  }
+}
